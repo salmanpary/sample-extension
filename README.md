@@ -1,12 +1,13 @@
 # React Chrome Extension Boilerplate
 
-## Getting Started
+## step1
 
 1. `npm i` to install dependancies
 2. `npm start` to start running the fast development mode Webpack build process that bundle files into the `dist` folder
 3. `npm i --save-dev <package_name>` to install new packages
+(if it is not installing try npm cache clean --force)
 
-## Loading The Chrome Extension
+## step 2 -loading the extension
 
 1. Open Chrome and navigate to `chrome://extensions/`
 2. Toggle on `Developer mode` in the top right corner
